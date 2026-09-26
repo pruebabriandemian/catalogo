@@ -12,7 +12,7 @@
             },
             {
                 "nombre": "Servidor 2",
-                "url": "https://jamesbornmain.com/e/qj3jgkcgqfoj"
+                "url": "https://playmogo.com/e/zvjr7wdcazr5"
             }
         ]
     },
@@ -21,12 +21,12 @@
         "titulo": "Interstellar",
         "anio": 2014,
         "genero": "Ciencia ficción · Drama",
-        "poster": "posters/interstellar.webp",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUsuwN7-YzzG5O9mRf5I_lO1T1oc_HIhj_l8WCLYsBw&s=10",
 
         "servidores": [
             {
                 "nombre": "Servidor 1",
-                "url": "https://jamesbornmain.com/e/qj3jgkcgqfoj"
+                "url": "https://playmogo.com/e/zvjr7wdcazr5"
             }
         ]
     },
@@ -40,7 +40,7 @@
         "servidores": [
             {
                 "nombre":"Servidor 1",
-                "url": "https://bysedikamoum.com/e/gduouk1zxtql"
+                "url": "https://playmogo.com/e/zvjr7wdcazr5"
             }
         ]
     }
