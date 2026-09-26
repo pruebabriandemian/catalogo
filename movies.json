@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": "The Matrix",
+        "anio": 1999,
+        "genero": "Acción · Ciencia ficción",
+        "poster": "posters/matrix.webp",
+
+        "servidores": [
+            {
+                "nombre": "Servidor 1",
+                "url": "https://playmogo.com/e/rscimnl3da07"
+            },
+            {
+                "nombre": "Servidor 2",
+                "url": "https://jamesbornmain.com/e/qj3jgkcgqfoj"
+            }
+        ]
+    },
+
+    {
+        "titulo": "Interstellar",
+        "anio": 2014,
+        "genero": "Ciencia ficción · Drama",
+        "poster": "posters/interstellar.webp",
+
+        "servidores": [
+            {
+                "nombre": "Servidor 1",
+                "url": "https://jamesbornmain.com/e/qj3jgkcgqfoj"
+            }
+        ]
+    },
+
+    {
+        "titulo": "Shrek",
+        "anio": 2001,
+        "genero": "Animación · Comedia",
+        "poster": "posters/shrek.webp",
+
+        "servidores": [
+            {
+                "nombre":"Servidor 1",
+                "url": "https://bysedikamoum.com/e/gduouk1zxtql"
+            }
+        ]
+    }
+]
