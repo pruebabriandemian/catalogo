@@ -2,9 +2,9 @@
     {
         "titulo": "The Matrix",
         "anio": 1999,
+        "tipo": "pelicula",
         "genero": "Acción · Ciencia ficción",
         "poster": "posters/matrix.webp",
-
         "servidores": [
             {
                 "nombre": "Servidor 1",
@@ -16,13 +16,12 @@
             }
         ]
     },
-
     {
         "titulo": "Interstellar",
         "anio": 2014,
+        "tipo": "pelicula",
         "genero": "Ciencia ficción · Drama",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUsuwN7-YzzG5O9mRf5I_lO1T1oc_HIhj_l8WCLYsBw&s=10",
-
         "servidores": [
             {
                 "nombre": "Servidor 1",
@@ -30,17 +29,69 @@
             }
         ]
     },
-
     {
         "titulo": "Shrek",
         "anio": 2001,
+        "tipo": "pelicula",
         "genero": "Animación · Comedia",
         "poster": "posters/shrek.webp",
-
         "servidores": [
             {
-                "nombre":"Servidor 1",
+                "nombre": "Servidor 1",
                 "url": "https://playmogo.com/e/zvjr7wdcazr5"
+            }
+        ]
+    },
+    {
+        "titulo": "Serie de prueba",
+        "tipo": "serie",
+        "anio": 2026,
+        "genero": "Drama",
+        "poster": "URL_POSTER",
+        "temporadas": [
+            {
+                "numero": 1,
+                "episodios": [
+                    {
+                        "numero": 1,
+                        "titulo": "Episodio 1",
+                        "servidores": [
+                            {
+                                "nombre": "Servidor 1",
+                                "url": "URL_VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "numero": 2,
+                        "titulo": "Episodio 2",
+                        "servidores": [
+                            {
+                                "nombre": "Servidor 1",
+                                "url": "URL_VIDEO"
+                            },
+                            {
+                                "nombre": "Servidor 2",
+                                "url": "URL_VIDEO"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numero": 2,
+                "episodios": [
+                    {
+                        "numero": 1,
+                        "titulo": "Episodio 1",
+                        "servidores": [
+                            {
+                                "nombre": "Servidor 1",
+                                "url": "URL_VIDEO"
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
