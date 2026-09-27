@@ -1,4 +1,19 @@
 [
+
+    
+    {
+        "titulo": "Anaconda (2025)",
+        "anio": 1999,
+        "tipo": "pelicula",
+        "genero": "Acción · Ciencia ficción",
+        "poster": "https://imgs.search.brave.com/o3d-fcEqqekh16Dxcy8i02XD4N2lnUPR7NZJkUdv6TA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y2luZW1hdGVyaWFs/LmNvbS9wLzEzNngv/YW1wMG41dGYvYW5h/Y29uZGEtYnJpdGlz/aC1tb3ZpZS1wb3N0/ZXItc20uanBnP3Y9/MTc1ODEzNjY3Mw",
+        "servidores": [
+            {
+                "nombre": "Servidor 1",
+                "url": "https://doodstream.com/e/r3fyaxlu763v"
+            }
+        ]
+    },
     {
         "titulo": "Harry potter la orden del fenix",
         "anio": 1999,
