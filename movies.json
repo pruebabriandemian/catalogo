@@ -15,6 +15,19 @@
         ]
     },
     {
+        "titulo": "The Home (2025)",
+        "anio": 2025,
+        "tipo": "pelicula",
+        "genero": "Acción · Ciencia ficción",
+        "poster": "https://www.cinecalidad.my/wp-content/uploads/2026/03/the-home-2025.jpg",
+        "servidores": [
+            {
+                "nombre": "Servidor 1",
+                "url": "https://playmogo.com/e/w2suagkn7ocj"
+            }
+        ]
+    },
+    {
         "titulo": "Harry potter la orden del fenix",
         "anio": 1999,
         "tipo": "pelicula",
